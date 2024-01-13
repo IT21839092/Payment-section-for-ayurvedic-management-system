@@ -1,2 +1,3 @@
 # Payment-section-for-ayurvedic-management-system
-Created using MERN, MongoDB
+Created using MERN, MongoDB , React.js , Node.js , express.js
+
